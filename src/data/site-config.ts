@@ -8,8 +8,8 @@ const siteConfig: SiteConfig = {
         src: avatar,
         alt: 'Ethan Donovan'
     },
-    title: 'Dante',
-    subtitle: 'Minimal Astro.js theme',
+    title: 'Víctor Moyano Valls',
+    subtitle: 'Professional portfolio',
     description: 'Astro.js and Tailwind CSS theme for blog and portfolio by justgoodui.com',
     image: {
         src: '/dante-preview.jpg',
